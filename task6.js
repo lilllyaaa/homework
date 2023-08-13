@@ -17,4 +17,7 @@ let matrix =[
 //     });
 //     return newMatrix;
 // }
-// console.log(matrixWith1(matrix));   
+// console.log(matrixWith1(matrix));  
+
+
+// console.log(matrixWith1(matrix));  
